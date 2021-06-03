@@ -2,3 +2,8 @@
 
 auto <- mtcars
 head (auto)
+
+#modificacion
+
+str(auto)
+
